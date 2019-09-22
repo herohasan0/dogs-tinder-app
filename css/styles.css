@@ -113,6 +113,8 @@ body {
 #press {
   background-color: #ef8172;
   padding-bottom: 3%;
+  position: relative;
+  top: -40px;
 }
 
 .press-logo {
@@ -123,7 +125,7 @@ body {
 /* Pricing Section */
 
 #pricing {
-  padding: 50px 100px;
+  padding: 25px 100px;
 }
 
 .card-body .price-header {
