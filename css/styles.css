@@ -1,0 +1,187 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+#title {
+  background-color: #ff4c68;
+  text-align: left;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Download Buttons */
+
+.download-buttons {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* Features Section */
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+}
+
+.features-header {
+  font-size: 1.5rem;
+}
+
+.features-ptag {
+  color: #8f8f8f
+}
+
+.features-itag {
+  color: #ef8172;
+  margin-bottom: 1.2rem;
+
+}
+
+.features-itag:hover {
+  color: #ff4c68;
+}
+
+.features-box {
+  padding: 3%;
+}
+
+/* Testimonials */
+
+.testimonials-header {
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+#testimonials {
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+
+
+/* Press */
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 10px 15px 30px;
+}
+
+/* Pricing Section */
+
+#pricing {
+  padding: 50px 100px;
+}
+
+.card-body .price-header {
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  
+}
+
+.card {
+  margin-top: 30px;
+}
+
+.card-header {
+  font-size: 1.5rem;
+}
+
+
+@media (max-width: 998px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+    margin-top: 3%;
+  }
+}
+
+/* Call To Action */
+
+.call-to-action {
+  background-color: #ff4c68;
+  padding: 7% 3%;
+  color: #fff;
+  font-weight: 900;
+}
+
+.cta-h3 {
+  font-size: 3.5rem;
+  width: 75%;
+  margin: 3% auto;
+  line-height: 1.5;
+}
+
+.download-buttons-bottom {
+  margin: 1% 1%;
+}
+
+/* Footer */
+
+.footer-div {
+  padding: 5%;
+  color: rgb(94, 94, 94);
+}
+
+.footer-logo {
+  margin: 2% 1%;
+}
