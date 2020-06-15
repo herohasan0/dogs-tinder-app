@@ -6,4 +6,4 @@ https://kahasan.github.io/dogs-tinder-app/
 
 
 ## Website screenshot
-![Website screenshot](/screenshot.png)
+![Website screenshot](/screenshot.png =600x)
