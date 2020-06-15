@@ -1,2 +1,5 @@
-# dogs-tinder-app
-Landing page. Just Created with html, css and bootstrap while learning.
+# Dogs Tinder App
+Just Created with html, css and bootstrap.
+
+Just Created with html, css and bootstrap. Check this link for demo 👉 
+https://kahasan.github.io/dogs-tinder-app/
