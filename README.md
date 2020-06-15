@@ -6,4 +6,4 @@ https://kahasan.github.io/dogs-tinder-app/
 
 
 ## Website screenshot
-![Website screenshot](/screenshot.png =600x)
+<img src="https://raw.githubusercontent.com/kahasan/dogs-tinder-app/master/screenshot.png" alt="" data-canonical-src="https://raw.githubusercontent.com/kahasan/dogs-tinder-app/master/screenshot.png" width="400" />
